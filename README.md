@@ -5,3 +5,13 @@ This repository contains class materials for the TA sessions accompanying the Ge
 Notes for all practice sessions are provided in both Jupyter notebook and PDF format for your convenience. 
 
 For more information on the contents of the main course and its software requirements, please visit the [course website](https://darribas.org/gds4ae/content/pages/home.html). You can download course materials from its corresponding [GitHub repository](https://github.com/darribas/gds4ae).
+
+## Contents
+
+1. Introduction to Python Programming with JupyterLab
+    - Set-up
+    - JupyterLab Interface
+    - Working with Jupyter Notebooks
+    - Python Essentials
+        - Basic Syntax
+        - Data Management with pandas
