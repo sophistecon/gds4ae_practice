@@ -7,11 +7,12 @@ Notes for all practice sessions are provided in both Jupyter notebook and PDF fo
 For more information on the contents of the main course and its software requirements, please visit the [course website](https://darribas.org/gds4ae/content/pages/home.html). You can download course materials from its corresponding [GitHub repository](https://github.com/darribas/gds4ae).
 
 ## Contents
+We will cover the following topics
 
 1. Introduction to Python Programming with JupyterLab
-    - Set-up
-    - JupyterLab Interface
+    - Set-up: Installation Recap & Docker
+    - JupyterLab Interface Tour
     - Working with Jupyter Notebooks
-    - Python Essentials
-        - Basic Syntax
-        - Data Management with pandas
+    - Python Programming Essentials
+        - Basic Syntax and Operations
+        - Data Management with `pandas`
