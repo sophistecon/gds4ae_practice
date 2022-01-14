@@ -9,10 +9,10 @@ For more information on the contents of the main course and its software require
 ## Contents
 We will cover the following topics
 
-1. Introduction to Python Programming with JupyterLab
+1. Introduction to JupyterLab and Python Programming
     - Set-up: Installation Recap & Docker
     - JupyterLab Interface Tour
-    - Working with Jupyter Notebooks
+    - Jupyter Notebooks
     - Python Programming Essentials
         - Basic Syntax and Operations
         - Data Management with `pandas`
