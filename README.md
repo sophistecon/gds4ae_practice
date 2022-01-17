@@ -10,9 +10,12 @@ For more information on the contents of the main course and its software require
 We will cover the following topics
 
 1. Introduction to JupyterLab and Python Programming
-    - Set-up: Installation Recap & Docker
-    - JupyterLab Interface Tour
-    - Jupyter Notebooks
-    - Python Programming Essentials
+    1. JupyterLab
+        - Set-up: Installation Recap & Docker
+        - Interface Tour
+        - Notebooks
+    2. Python Programming Essentials
         - Basic Syntax and Operations
         - Data Management with `pandas`
+
+Please send any questions and/or suggestions to sophie.nottmeyer@cemfi.edu.es
